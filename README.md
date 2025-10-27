@@ -1,6 +1,6 @@
 # Initialisation C# avec l'IDE JetBrains
 
-Dans ce repo, il y a un projet c#.
+Dans ce repo, il y a un TP c#.
 
 C'est une création de classe avec un fichier csv contenant les données des élèves d'une classe.
 
